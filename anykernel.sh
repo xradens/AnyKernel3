@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Watermelon Kernel by xradens
+kernel.string=Roters Khatulistiwa by xradens
 do.devicecheck=1
 do.modules=0
 do.systemless=1
